@@ -26,7 +26,7 @@ education:
   - course: PhD
     institution: The Chinese University of Hong Kong
     year: 2021
-  - course: BSc in Artificial Intelligence
+  - course: BSc in Mathematics
     institution: University of Science and Technology of China
     year:
 

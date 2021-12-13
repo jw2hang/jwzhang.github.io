@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
-baseurl: 'https://jw2hang.github.io/' # Website URL
+title: Jiawei Zhang's Homepage # Website name
+baseurl: 'https://jwzhang.netlify.app/' # Website URL
 copyright: '© {year} Jiawei Zhang' # Footer text, e.g. '© {year} Me'
 
 ############################
