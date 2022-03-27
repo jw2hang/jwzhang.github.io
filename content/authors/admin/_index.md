@@ -6,7 +6,7 @@ title: Jiawei Zhang
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral scholar at MIT
+role: Postdoctoral scholar in LIDS @ MIT
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://www.mit.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: Jiawei Zhang is currently the postdoctoral scholar in the Laboratory for Information & Decision Systems (LIDS) at MIT, working with Asuman Ozdaglar.
 
 # Interests to show in About widget
 interests:
@@ -54,9 +54,9 @@ education:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "jwzhang@mit.edu"
@@ -65,6 +65,13 @@ email: "jwzhang@mit.edu"
 highlight_name: true
 ---
 
-Jiawei Zhang is the Postdoctoral scholar at MIT.
+Jiawei Zhang is currently the postdoctoral scholar in the Laboratory for Information & Decision Systems (LIDS) at MIT, working with Asuman Ozdaglar.
+He obtained the Ph.D. degree in Computer and Information Engineering from the Chinese University of Hong Kong (CUHK), 
+studied in CUHK-Shenzhen with advisory of Zhi-Quan (Tom) Luo.
+Previously, he obtained the B.Sc. in Mathematics (Hua Loo-Keng talent program) University of Science and Technology of China.
+
+His research interests include optimization theory, designing efficient optimization algorithms and their applications to
+machine learning and data science. Recently, I am very interested in understanding machine learning especially deep
+learning from an optimization perspective.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
