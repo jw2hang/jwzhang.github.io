@@ -1,7 +1,7 @@
 ---
 title: "A global dual error bound and its application to the analysis of linearly constrained nonconvex optimization"
 date: 2020-01-01
-publishDate: 2021-12-13T09:18:44.357615Z
+publishDate: 2022-03-27T13:43:15.214864Z
 authors: ["Jiawei Zhang", "Zhiquan Luo"]
 publication_types: ["2"]
 abstract: ""
