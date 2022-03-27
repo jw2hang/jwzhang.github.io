@@ -18,7 +18,11 @@ bio: Jiawei Zhang is currently the postdoctoral scholar in the Laboratory for In
 
 # Interests to show in About widget
 interests:
-- Optimization algorithms and theory
+- Optimization theory
+- Optimization algorithms and their applications to
+machine learning and data science
+- Understanding machine learning especially deep
+learning from an optimization perspective
 
 # Education to show in About widget
 education:
@@ -65,9 +69,9 @@ email: "jwzhang@mit.edu"
 highlight_name: true
 ---
 
-Jiawei Zhang is currently the postdoctoral scholar in the Laboratory for Information & Decision Systems (LIDS) at MIT, working with Asuman Ozdaglar.
+Jiawei Zhang is currently the postdoctoral scholar in the [Laboratory for Information & Decision Systems (LIDS)](https://lids.mit.edu) at MIT, working with [Asuman Ozdaglar](https://asu.mit.edu).
 He obtained the Ph.D. degree in Computer and Information Engineering from the Chinese University of Hong Kong (CUHK), 
-studied in CUHK-Shenzhen with advisory of Zhi-Quan (Tom) Luo.
+studied in CUHK-Shenzhen with advisory of [Zhi-Quan (Tom) Luo](https://scholar.google.com/citations?user=dW3gcXoAAAAJ&hl=en).
 Previously, he obtained the B.Sc. in Mathematics (Hua Loo-Keng talent program) University of Science and Technology of China.
 
 His research interests include optimization theory, designing efficient optimization algorithms and their applications to
