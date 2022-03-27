@@ -23,21 +23,21 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD
-    institution: The Chinese University of Hong Kong
+  - course: Ph.D. in Computer and Information Engineering
+    institution: The Chinese University of Hong Kong (CUHK)
     year: 2021
   - course: BSc in Mathematics
-    institution: University of Science and Technology of China
+    institution: University of Science and Technology of China (USTC)
     year:
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-# social:
-# - icon: envelope
-#   icon_pack: fas
-#   link: '/#contact'
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: '/#contact'
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -74,4 +74,4 @@ His research interests include optimization theory, designing efficient optimiza
 machine learning and data science. Recently, I am very interested in understanding machine learning especially deep
 learning from an optimization perspective.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
