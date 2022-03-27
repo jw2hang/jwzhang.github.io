@@ -18,11 +18,9 @@ bio: Jiawei Zhang is currently the postdoctoral scholar in the Laboratory for In
 
 # Interests to show in About widget
 interests:
-- Optimization theory
-- Optimization algorithms and their applications to
-machine learning and data science
-- Understanding machine learning especially deep
-learning from an optimization perspective
+  - Optimization theory
+  - Optimization algorithms and their applications to machine learning and data science
+  - Understanding machine learning especially deep learning from an optimization perspective
 
 # Education to show in About widget
 education:
