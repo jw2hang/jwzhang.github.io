@@ -28,7 +28,7 @@ education:
   - course: Ph.D. in Computer and Information Engineering
     institution: The Chinese University of Hong Kong (CUHK)
     year: 
-  - course: BSc in Mathematics
+  - course: B.Sc. in Mathematics
     institution: University of Science and Technology of China (USTC)
     year:
 
