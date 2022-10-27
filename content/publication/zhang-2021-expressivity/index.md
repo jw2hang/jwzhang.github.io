@@ -1,7 +1,7 @@
 ---
 title: "When Expressivity Meets Trainability: Fewer than $ n $ Neurons Can Work"
 date: 2021-01-01
-publishDate: 2022-03-27T13:43:15.221308Z
+publishDate: 2022-10-27T17:42:54.986303Z
 authors: ["Jiawei Zhang", "Yushun Zhang", "Mingyi Hong", "Ruoyu Sun", "Zhi-Quan Luo"]
 publication_types: ["1"]
 abstract: ""

@@ -76,4 +76,6 @@ His research interests include optimization theory, designing efficient optimiza
 machine learning and data science. Recently, I am very interested in understanding machine learning especially deep
 learning from an optimization perspective.
 
+I organized two sessions in INFORMS Annual meeting 2022 on nonconvex nonsmooth optimization and nonconvex constrained optimization.
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
