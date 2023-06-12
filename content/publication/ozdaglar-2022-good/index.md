@@ -1,7 +1,7 @@
 ---
 title: "What is a Good Metric to Study Generalization of Minimax Learners?"
 date: 2022-01-01
-publishDate: 2022-10-27T17:42:54.983982Z
+publishDate: 2023-06-12T09:48:22.161686Z
 authors: ["Asuman Ozdaglar", "Sarath Pattathil", "Jiawei Zhang", "Kaiqing Zhang"]
 publication_types: ["2"]
 abstract: ""
