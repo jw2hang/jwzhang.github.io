@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 92
 
-title: Selected Presentations
+title: Teaching Experience
 subtitle: ''
 
 content:
