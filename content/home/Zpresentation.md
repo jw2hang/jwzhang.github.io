@@ -37,6 +37,6 @@ design:
   view: 1
 ---
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering presentations](./presentation/).
-{{% /callout %}}
+#{{% callout note %}}
+#Quickly discover relevant content by [filtering presentations](./presentation/).
+#{{% /callout %}}
