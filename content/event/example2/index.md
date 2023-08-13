@@ -2,7 +2,7 @@
 title: On Computational and Statistical Challenges of Solving Nonconvex Minimax Optimization Problems
 
 event: Epstein department seminar, Georgia Institute of Technology, Atlanta, GA
-event_url: https://example.org
+#  event_url: https://example.org
 
 location: Epstein department seminar, Georgia Institute of Technology, Atlanta, GA
 address:
@@ -17,8 +17,8 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-06-01T13:00:00Z"
-date_end: "2020-06-01T15:00:00Z"
+date: "2022-10"
+#  date_end: "2020-06-01T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
