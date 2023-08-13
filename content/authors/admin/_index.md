@@ -68,15 +68,14 @@ email: "jwzhang@mit.edu"
 highlight_name: true
 ---
 
-Jiawei Zhang is currently the postdoctoral scholar in the [Laboratory for Information & Decision Systems (LIDS)](https://lids.mit.edu) at MIT, working with [Prof. Asuman Ozdaglar](https://asu.mit.edu).
-He obtained the Ph.D. degree in Computer and Information Engineering from the Chinese University of Hong Kong (CUHK), 
-studied in [CUHK-Shenzhen](https://www.cuhk.edu.cn/en) with advisory of [Prof. Zhi-Quan (Tom) Luo](https://scholar.google.com/citations?user=dW3gcXoAAAAJ&hl=en).
+Jiawei Zhang is currently a postdoctoral scholar in the [Laboratory for Information & Decision Systems (LIDS)](https://lids.mit.edu) at MIT, working with [Prof. Asuman Ozdaglar](https://asu.mit.edu). He also works closely with [Prof. Saurabh Amin](https://cee.mit.edu/people_individual/saurabh-amin/). He obtained the Ph.D. degree in Computer and Information Engineering from the Chinese University of Hong Kong (CUHK), 
+studied in [CUHK-Shenzhen](https://www.cuhk.edu.cn/en) with an advisory of [Prof. Zhi-Quan (Tom) Luo](https://scholar.google.com/citations?user=dW3gcXoAAAAJ&hl=en).
 Previously, he obtained the B.Sc. in Mathematics (Hua Loo-Keng talent program) University of Science and Technology of China.
 
 His research interests include optimization theory, designing efficient optimization algorithms and their applications to
-machine learning and data science. Recently, I am very interested in understanding machine learning especially deep
+machine learning and data science. Recently, he is very interested in understanding machine learning especially deep
 learning from an optimization perspective.
 
-I organized two sessions in INFORMS Annual meeting 2022 on nonconvex nonsmooth optimization and nonconvex constrained optimization.
+He organized two sessions at INFORMS Annual Meeting 2022 on nonconvex nonsmooth optimization and nonconvex constrained optimization.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
