@@ -1,5 +1,5 @@
 ---
-title: Example Talk
+title: On Computational and Statistical Challenges of Solving Nonconvex Minimax Optimization Problems
 
 event: Epstein department seminar, Georgia Institute of Technology, Atlanta, GA
 event_url: https://example.org
@@ -30,19 +30,6 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
-
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
