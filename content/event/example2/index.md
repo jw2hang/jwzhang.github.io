@@ -24,6 +24,8 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "October 2022"
 
+displayDate: "Oct 2022"
+
 authors: []
 tags: []
 
