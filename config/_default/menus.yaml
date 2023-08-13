@@ -22,6 +22,12 @@ main:
   - name: Presentations
     url: '#Zpresentation'
     weight: 51
+  - name: Teaching Experience
+    url: '#teaching'
+    weight: 58
+  - name: Awards
+    url: '#awards'
+    weight: 59
   - name: Contact
     url: '#contact'
     weight: 60
