@@ -10,7 +10,7 @@ headless: true
 weight: 92
 
 title: Teaching Experience
-subtitle: ''
+subtitle: 'Award'
 
 content:
   # Page type to display. E.g. post, talk, publication...
