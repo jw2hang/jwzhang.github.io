@@ -6,4 +6,5 @@ event: Epstein department seminar, Georgia Institute of Technology, Atlanta, GA
 
 location: Epstein Department Seminar, Georgia Institute of Technology, Atlanta, GA Oct. 2022
 
+weight: 5
 ---
