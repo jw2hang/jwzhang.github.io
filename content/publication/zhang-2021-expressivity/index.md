@@ -6,6 +6,6 @@ authors: ["Jiawei Zhang", "Yushun Zhang", "Mingyi Hong", "Ruoyu Sun", "Zhi-Quan 
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*Thirty-Fifth Conference on Neural Information Processing Systems*"
+publication: "*Advances in Neural Information Processing Systems 34 (NeurIPS 2021)*"
 ---
 
