@@ -6,4 +6,8 @@ weight: 5
 date: "2022-10-01"
 
 location: Epstein Department Seminar, Georgia Institute of Technology, Atlanta, GA
+
+date: "2021-10-01"
+
+location: Hi Epstein Department Seminar, Georgia Institute of Technology, Atlanta, GA
 ---
