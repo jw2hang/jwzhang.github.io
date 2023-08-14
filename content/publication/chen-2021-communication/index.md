@@ -6,6 +6,6 @@ authors: ["Congliang Chen", "Jiawei Zhang", "Li Shen", "Peilin Zhao", "Zhiquan L
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*International Conference on Artificial Intelligence and Statistics*"
+publication: "*Proceedings of The 24th International Conference on Artificial Intelligence and Statistics (AISTATS 2021)*"
 ---
 
