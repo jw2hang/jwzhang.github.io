@@ -1,13 +1,10 @@
 ---
 title: On Computational and Statistical Challenges of Solving Nonconvex Minimax Optimization Problems
 
-weight: 5
+weight: 51
 
-date: "2022-10-01"
+date: "2023-04-01"
 
-location: Epstein Department Seminar, Georgia Institute of Technology, Atlanta, GA
+location: Invited Seminar Series, Georgia Institute of Technology, Atlanta, GA
 
-date: "2021-10-01"
-
-location: Hi Epstein Department Seminar, Georgia Institute of Technology, Atlanta, GA
 ---
