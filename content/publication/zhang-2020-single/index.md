@@ -6,6 +6,6 @@ authors: ["Jiawei Zhang", "Peijun Xiao", "Ruoyu Sun", "Zhiquan Luo"]
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*Advances in Neural Information Processing Systems*"
+publication: "*Advances in Neural Information Processing Systems 33 (NeurIPS 2020)*"
 ---
 
