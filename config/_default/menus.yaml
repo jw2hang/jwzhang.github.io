@@ -19,10 +19,10 @@ main:
    - name: News
     url: '#news'
     weight: 50
-  - name: Publications
+  - name: Recent Publications
     url: '#publications'
     weight: 50
-  - name: Presentations
+  - name: Selected Presentations
     url: '#Zpresentation'
     weight: 51
   - name: Teaching Experience
@@ -38,5 +38,5 @@ main:
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: CV
-    url: uploads/resume.pdf
+    url: uploads/JWZhangCV0221.pdf
     weight: 70
