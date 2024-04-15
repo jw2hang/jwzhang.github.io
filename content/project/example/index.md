@@ -1,9 +1,9 @@
 ---
 title: "Teaching Assistant for Course: Number Theory (Undergraduate-level), Instructor: Prof. Mario Huang, Award: Outstanding Teaching Assistant granted by School of Science and Engineering, The Chinese University of Hong Kong, Shenzhen, China"
-summary: An example of using the in-built project page.
-tags:
-- Teaching Assistant
+summary: "An example of using the in-built project page"
+tags: "Teaching Assistant"
 date: "2016-04-27T00:00:00Z"
+Instructor: Prof. Mario Huang
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -17,5 +17,5 @@ external_link: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-Instructor: Prof. Mario Huang
+
 
