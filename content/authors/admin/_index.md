@@ -68,13 +68,7 @@ email: "jwzhang@mit.edu"
 highlight_name: true
 ---
 
-Jiawei Zhang is currently a postdoctoral scholar in the [Laboratory for Information & Decision Systems (LIDS)](https://lids.mit.edu) at MIT, working with [Prof. Asuman Ozdaglar](https://asu.mit.edu). He also works closely with [Prof. Saurabh Amin](https://cee.mit.edu/people_individual/saurabh-amin/). He obtained the Ph.D. degree in Computer and Information Engineering from the [Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.cn/en), with an advisory of [Prof. Zhi-Quan (Tom) Luo](https://scholar.google.com/citations?user=dW3gcXoAAAAJ&hl=en).
-Previously, he obtained the B.Sc. in Mathematics (Hua Loo-Keng Talent Program) from the [University of Science and Technology of China](https://www.cuhk.edu.cn/en).
-
-His research interests include optimization theory, designing efficient optimization algorithms, and their applications to
-machine learning and data science. Recently, he is very interested in understanding machine learning especially deep
-learning from an optimization perspective.
-
-He organized two sessions at INFORMS Annual Meeting 2022 on nonconvex nonsmooth optimization and nonconvex constrained optimization.
+Jiawei Zhang is currently a postdoctoral scholar in the [Laboratory for Information & Decision Systems (LIDS)](https://lids.mit.edu) at MIT, working with [Prof. Asuman Ozdaglar](https://asu.mit.edu) and [Prof. Saurabh Amin](https://cee.mit.edu/people_individual/saurabh-amin/). He obtained the Ph.D. degree in Computer and Information Engineering from the [Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.cn/en), with an advisory of [Prof. Zhi-Quan (Tom) Luo](https://scholar.google.com/citations?user=dW3gcXoAAAAJ&hl=en).
+Previously, he obtained the B.Sc. in Mathematics (Hua Loo-Keng Talent Program) from the [University of Science and Technology of China](https://www.cuhk.edu.cn/en). He will join the Department of Computer Sciences at the University of Wisconsin–Madison as a tenure-track professor.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
