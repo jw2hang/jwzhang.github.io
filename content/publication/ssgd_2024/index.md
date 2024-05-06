@@ -1,10 +1,10 @@
 ---
-title: "International Conference on Artificial Intelligence and Statistics"
-date: 2024-04-18
-publishDate: 2024-04-18
+title: "Stochastic Smoothed Gradient Descent Ascent for Federated Minimax Optimization"
+date: 2024-05-02
+publishDate: 2024-05-02
 authors: ["Wei Shen", "Minhui Huang", "Jiawei Zhang", "Cong Shen"]
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*International Conference on Artificial Intelligence and Statistics, 2024*"
+publication: "*Proceedings of the 27th International Conference on Artificial Intelligence and Statistics (AISTATS 2024)*"
 ---
