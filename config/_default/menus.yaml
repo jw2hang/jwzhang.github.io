@@ -19,9 +19,12 @@ main:
   - name: News
     url: '#news'
     weight: 40
+  - name: Research Topics
+    url: '#interests'
+    weight: 41
   - name: Prospective Students
     url: '#students'
-    weight: 41
+    weight: 42
   - name: Recent Publications
     url: '#publications'
     weight: 50
