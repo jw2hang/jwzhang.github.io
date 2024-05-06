@@ -18,10 +18,10 @@ bio: Jiawei Zhang is currently a postdoctoral scholar in the Laboratory for Info
 
 # Interests to show in About widget
 interests:
-  - "Nonlinear and convex optimization: theory and algorithms"
-  - "Learning algorithms: robustness and generalization"
-  - Data-driven decision-making under uncertainty
-  - New computational models for AI-driven platforms, sustainable energy systems, and signal processing
+  - Efficient optimization algorithms for deterministic or stochastic, large-scale constrained optimization, minimax problems, distributed optimization, bilevel optimization, and neural network training, including deep learning and large model training.
+  - Optimization and generalization for machine learning and AI, e.g., adversarial training, diffusion models, transformers.
+  - Learning methods for optimization.
+  - Data-driven optimization and decision-making under uncertainty, e.g., contextual optimization, robust optimization, offline reinforcement learning, and reward learning for sequential decision-making.
     
 # Education to show in About widget
 education:
