@@ -7,7 +7,7 @@ widget: pages
 headless: false
 
 # Order that this section appears on the page.
-weight: 89
+weight: 80
 
 title: News
 subtitle: ''
