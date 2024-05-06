@@ -10,9 +10,28 @@ headless: false
 weight: 88
 
 title: Research Topics
-
-  - Efficient optimization algorithms for deterministic or stochastic, large-scale constrained optimization, minimax problems, distributed optimization, bilevel optimization, and neural network training, including deep learning and large model training.
-  - Optimization and generalization for machine learning and AI, e.g., adversarial training, diffusion models, transformers.
-  - Learning methods for optimization.
-  - Data-driven optimization and decision-making under uncertainty, e.g., contextual optimization, robust optimization, offline reinforcement learning, and reward learning for sequential decision-making.
+content:
+  # Page type to display. E.g. post, talk, publication...
+  page_type: interest
+  # Choose how much pages you would like to display (0 = all pages)
+  count: 0
+  # Choose how many pages you would like to offset by
+  offset: 0
+  # Page order: descending (desc) or ascending (asc) date.
+  order: desc
+  # Filter on criteria
+  filters:
+    tag: ''
+    category: ''
+    publication_type: ''
+    author: ''
+    exclude_featured: true
+design:
+  # Choose a view for the listings:
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   4 = Citation (publication only)
+  view: 1
+---
 
