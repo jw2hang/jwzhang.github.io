@@ -20,7 +20,7 @@ main:
     url: '#news'
     weight: 40
   - name: Prospective Students
-    url: '#interest'
+    url: '#students'
     weight: 41
   - name: Recent Publications
     url: '#publications'
