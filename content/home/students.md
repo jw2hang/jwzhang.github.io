@@ -10,27 +10,7 @@ headless: false
 weight: 88
 
 title: Prospective Students
-content:
-  # Page type to display. E.g. post, talk, publication...
-  page_type: students
-  # Choose how much pages you would like to display (0 = all pages)
-  count: 0
-  # Choose how many pages you would like to offset by
-  offset: 0
-  # Page order: descending (desc) or ascending (asc) date.
-  order: desc
-  # Filter on criteria
-  filters:
-    tag: ''
-    category: ''
-    publication_type: ''
-    author: ''
-    exclude_featured: true
-design:
-  # Choose a view for the listings:
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
-  view: 1
 ---
+<span style="font-size: 25px;">
+**I am looking for self-motivated PhD students starting in 2025. Students with backgrounds in mathematics, statistics, computer science, electronic engineering, and other related fields are all welcome to apply.**
+</span>
