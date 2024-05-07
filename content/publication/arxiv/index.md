@@ -3,7 +3,7 @@ title: "On the Iteration Complexity of Smoothed Proximal ALM for Nonconvex Optim
 date: 2022-01-01
 publishDate: 2022-01-01
 authors: ["Jiawei Zhang", "Wenqiang Pu", "Zhi-Quan Luo"]
-publication_types: [""]
+publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*arXiv preprint arXiv:2207.06304*"
