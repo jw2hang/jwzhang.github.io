@@ -6,5 +6,5 @@ authors: ["Kihyun Kim*", "Jiawei Zhang*", "Pablo Parrilo", "Asuman E. Ozdaglar"]
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*Proceedings of the 41th International Conference on Machine Learning (ICML 2024)*"
+publication: "*Proceedings of the 41th International Conference on Machine Learning (ICML 2024) (*Indicates equal contributionk)*"
 ---
