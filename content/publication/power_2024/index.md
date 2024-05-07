@@ -6,5 +6,5 @@ authors: ["Asuman Ozdaglar", "Sarath Pattathil", "Jiawei Zhang", "Kaiqing Zhang"
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*Proceedings of the 40th International Conference on Machine Learning, Workshop on Duality for Modern Machine Learning (ICML 2023 Workshop)*"
+publication: "*Proceedings of the 40th International Conference on Machine Learning Workshop on Duality for Modern Machine Learning (ICML 2023 Workshop)*"
 ---
