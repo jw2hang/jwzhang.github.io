@@ -1,7 +1,7 @@
 ---
 title: "Uniformly Stable Algorithms for Adversarial Training and Beyond"
-date: 2024-05-01
-publishDate: 2024-05-01
+date: 2024-05-04
+publishDate: 2024-05-04
 authors: ["Jiancong Xiao", "Jiawei Zhang", "Zhi-Quan Luo", "Asuman Ozdaglar"]
 publication_types: ["1"]
 abstract: ""
