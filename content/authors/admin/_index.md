@@ -27,7 +27,7 @@ interests:
 education:
   courses:
   - course: Ph.D. in Computer and Information Engineering
-    institution: The Chinese University of Hong Kong, Shenzhen (CUHK(SZ))
+    institution: The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)
     year: 
   - course: B.Sc. in Mathematics (Hua Loo-Keng Talent Program)
     institution: University of Science and Technology of China (USTC)
@@ -68,4 +68,4 @@ email: "jwzhang@mit.edu"
 highlight_name: true
 ---
 
-Jiawei Zhang is an incoming assistant professor in the Department of Computer Sciences at the University of Wisconsin–Madison. Currently, he is a postdoctoral scholar in the [Laboratory for Information & Decision Systems (LIDS)](https://lids.mit.edu) at MIT, working with [Prof. Asuman Ozdaglar](https://asu.mit.edu) and [Prof. Saurabh Amin](https://cee.mit.edu/people_individual/saurabh-amin/). He obtained the Ph.D. degree in Computer and Information Engineering from the [Chinese University of Hong Kong, Shenzhen (CUHK(SZ))](https://www.cuhk.edu.cn/en), with an advisory of [Prof. Zhi-Quan (Tom) Luo](https://scholar.google.com/citations?user=dW3gcXoAAAAJ&hl=en). Previously, he obtained the B.Sc. in Mathematics (Hua Loo-Keng Talent Program) from the [University of Science and Technology of China](http://en.ustc.edu.cn/).
+Jiawei Zhang is an incoming assistant professor in the Department of Computer Sciences at the University of Wisconsin–Madison. Currently, he is a postdoctoral scholar in the [Laboratory for Information & Decision Systems (LIDS)](https://lids.mit.edu) at MIT, working with [Prof. Asuman Ozdaglar](https://asu.mit.edu) and [Prof. Saurabh Amin](https://cee.mit.edu/people_individual/saurabh-amin/). He obtained the Ph.D. degree in Computer and Information Engineering from the [Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen))](https://www.cuhk.edu.cn/en), with an advisory of [Prof. Zhi-Quan (Tom) Luo](https://scholar.google.com/citations?user=dW3gcXoAAAAJ&hl=en). Previously, he obtained the B.Sc. in Mathematics (Hua Loo-Keng Talent Program) from the [University of Science and Technology of China](http://en.ustc.edu.cn/).
