@@ -25,6 +25,6 @@ title: Research Topics
 
 
 
- - **Data-driven optimization and decision-making under uncertainty, e.g., contextual optimization, robust optimization, offline reinforcement learning, and reward learning for sequential decision-making.**
+ - **Data-driven optimization and decision-making under uncertainty, e.g., contextual optimization, robust optimization, offline reinforcement learning, and reward learning for sequential decision-making, with applications to AI, energy, cyber-physical security and signal processing.**
  
  </span>
