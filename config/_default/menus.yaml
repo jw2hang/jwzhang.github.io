@@ -29,7 +29,7 @@ main:
     url: '#publications'
     weight: 50
   - name: Preprint Papers
-    url: '#preprint'
+    url: '#preprints'
     weight: 51
   - name: Teaching Experience
     url: '#teaching'
