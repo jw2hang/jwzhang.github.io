@@ -28,9 +28,9 @@ main:
   - name: Recent Publications
     url: '#publications'
     weight: 50
-  # - name: Selected Presentations
-  #   url: '#Zpresentation'
-  #   weight: 51
+  - name: Preprint Papers
+    url: '#preprint'
+    weight: 51
   - name: Teaching Experience
     url: '#teaching'
     weight: 58
