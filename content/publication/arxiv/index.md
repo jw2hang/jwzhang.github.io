@@ -1,5 +1,5 @@
 ---
-title: "On the Iteration Complexity of Smoothed Proximal ALM for Nonconvex Optimization Prob- lem with Convex Constraints"
+title: "On the Iteration Complexity of Smoothed Proximal ALM for Nonconvex Optimization Problem with Convex Constraints"
 date: 2022-01-01
 publishDate: 2022-01-01
 authors: ["Jiawei Zhang", "Wenqiang Pu", "Zhi-Quan Luo"]
