@@ -71,3 +71,14 @@ related:
 security:
   enableInlineShortcodes: false
   allowEnv: ["WC_POST_CSS"]
+  
+  [security.exec]
+    allow = ['^(dart-)?sass(-embedded)?$', '^go$', '^git$', '^npx$', '^postcss$', '^tailwindcss$']
+    osEnv = ['(?i)^((HTTPS?|NO)_PROXY|PATH(EXT)?|APPDATA|TE?MP|TERM|GO\w+|(XDG_CONFIG_)?HOME|USERPROFILE|SSH_AUTH_SOCK|DISPLAY|LANG|SYSTEMDRIVE)$']
+
+  [security.funcs]
+    getenv = ['^HUGO_', '^CI$', '^WC_POST_CSS$']  # 添加这一行以允许访问 WC_POST_CSS 环境变量
+
+  [security.http]
+    methods = ['(?i)GET|POST']
+    urls = ['.*']
