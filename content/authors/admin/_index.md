@@ -6,15 +6,15 @@ title: Jiawei Zhang
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral scholar in LIDS @ MIT
+role: Assistant professor in CS @ UW-Madison
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Massachusetts Institute of Technology
-  url: https://www.mit.edu/
+- name: University of Wisconsin–Madison
+  url: https://www.wisc.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Jiawei Zhang is currently a postdoctoral scholar in the Laboratory for Information & Decision Systems (LIDS) at MIT, working with Prof. Asuman Ozdaglar.
+bio: Jiawei Zhang is currently an assistant professor in the Department of Computer Sciences at University of Wisconsin–Madison.
 
 # Interests to show in About widget
 interests:
@@ -68,4 +68,4 @@ email: "jwzhang@mit.edu"
 highlight_name: true
 ---
 
-Jiawei Zhang is an assistant professor in the Department of Computer Sciences at the University of Wisconsin–Madison. Currently, he is a postdoctoral fellow supported by The MIT Postdoctoral Fellowship For Engineering Excellence in the Laboratory for Information & Decision Systems (LIDS) at MIT, working with [Prof. Asuman Ozdaglar](https://asu.mit.edu) and [Prof. Saurabh Amin](https://cee.mit.edu/people_individual/saurabh-amin/). He obtained the Ph.D. degree in Computer and Information Engineering from the Chinese University of Hong Kong, Shenzhen, with an advisory of [Prof. Zhi-Quan (Tom) Luo](https://scholar.google.com/citations?user=dW3gcXoAAAAJ&hl=en), and was honored with the Presidential Award for Outstanding Doctoral Students. Previously, he obtained the B.Sc. in Mathematics (Hua Loo-Keng Talent Program) from the University of Science and Technology of China.
+Jiawei Zhang is an assistant professor in the Department of Computer Sciences at University of Wisconsin–Madison. Previously, he was a postdoctoral fellow supported by The MIT Postdoctoral Fellowship For Engineering Excellence in the Laboratory for Information & Decision Systems (LIDS) at MIT, working with [Prof. Asuman Ozdaglar](https://asu.mit.edu) and [Prof. Saurabh Amin](https://cee.mit.edu/people_individual/saurabh-amin/). He obtained the Ph.D. degree in Computer and Information Engineering from the Chinese University of Hong Kong, Shenzhen, with an advisory of [Prof. Zhi-Quan (Tom) Luo](https://scholar.google.com/citations?user=dW3gcXoAAAAJ&hl=en), and was honored with the Presidential Award for Outstanding Doctoral Students. He obtained the B.Sc. in Mathematics (Hua Loo-Keng Talent Program) from the University of Science and Technology of China.
