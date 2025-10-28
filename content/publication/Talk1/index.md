@@ -1,5 +1,5 @@
 ---
-title: "Slides on our recent works on optimal first-order algorithms for stochastic constrained optimization, theoretical analysis of GRPO from the adaptive gradient descent perspective, and lossless, efficient inference for diffusion language models"
+title: "Eﬃcient Optimization, Post Training and Inference"
 date: 2025-10-28
 publishDate: 2025-10-28
 authors: ["Jiawei Zhang"]
