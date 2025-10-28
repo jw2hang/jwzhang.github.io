@@ -27,7 +27,7 @@ content:
   #   category: ''
     publication_type: 
       - '1'
-      - '2'
+      # - '2'
   #   author: ''
   #   exclude_featured: true
 design:
