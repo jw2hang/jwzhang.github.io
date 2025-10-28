@@ -13,18 +13,14 @@ title: Research Topics
 ---
 <span style="font-size: 25px;">
 
- - **Efficient optimization algorithms for deterministic or stochastic, large-scale constrained optimization, minimax problems, distributed optimization, bilevel optimization, and neural network training, including deep learning and large model training.**
+ - **Efficient, scalable, generalizable, and robust optimization algorithms for large-scale optimization problems, including LLM training, constrained optimization, and bilevel optimization.**
 
 
 
- - **Optimization and generalization for machine learning and AI, e.g., adversarial training, diffusion models, transformers.**
+ - **Fundamental theories and algorithms for generative models, including LLMs and diffusion models, focusing on efficient and reliable training and inference.**
 
 
 
- - **Learning methods for optimization.**
-
-
-
- - **Data-driven optimization and decision-making under uncertainty, e.g., contextual optimization, robust optimization, offline reinforcement learning, and reward learning for sequential decision-making, with applications to AI, energy, cyber-physical security and signal processing.**
+ - **Optimization and decision-making for engineering applications, including energy systems and communication systems.**
  
  </span>
