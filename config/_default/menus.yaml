@@ -37,9 +37,12 @@ main:
   - name: Awards
     url: '#awards'
     weight: 59
+  - name: Services
+    url: '#services'
+    weight: 60
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 61
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
