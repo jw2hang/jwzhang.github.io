@@ -18,10 +18,9 @@ bio: Jiawei Zhang is currently an assistant professor in the Department of Compu
 
 # Interests to show in About widget
 interests:
-  - "Nonlinear and convex optimization: theory and algorithms"
-  - "Optimization, generalization, and robustness of machine learning, reinforcement learning, generative models (including diffusion models, large models, foundation models)"
-  - Data-driven decision-making under uncertainty
-  - New computational models for AI-driven platforms, sustainable energy systems, and signal processing
+  - Efficient, scalable, generalizable, and robust optimization algorithms for large-scale optimization problems
+  - Fundamental theories and algorithms for generative models, including LLMs and diffusion models
+  - Optimization and decision-making for engineering applications, including energy systems and communication systems
     
 # Education to show in About widget
 education:
