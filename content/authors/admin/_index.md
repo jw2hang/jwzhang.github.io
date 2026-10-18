@@ -58,7 +58,7 @@ social:
 # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/JWZhangCV2411.pdf
+    link: uploads/JWZhangCV2610.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "jzhang2924@wisc.edu"
