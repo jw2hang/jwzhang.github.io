@@ -13,14 +13,14 @@ title: Research Topics
 ---
 <span style="font-size: 25px;">
 
- - **Efficient, scalable, generalizable, and robust optimization algorithms for large-scale optimization problems, including LLM training, constrained optimization, and bilevel optimization.**
+ - **Optimization theory and algorithms.**
 
 
 
- - **Fundamental theories and algorithms for generative models, including LLMs and diffusion models, focusing on efficient and reliable training and inference.**
+ - **Efficient, reliable, and generalizable training and inference for LLMs and generative models.**
 
 
 
- - **Optimization and decision-making for engineering applications, including energy systems and communication systems.**
+ - **Optimization and AI for science and engineering.**
  
  </span>

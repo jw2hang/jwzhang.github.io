@@ -16,5 +16,9 @@ title: Services
  - **Action Editor, Transactions on Machine Learning Research (TMLR).**
 
  - **Area Chair, International Conference on Machine Learning (ICML 2026).**
+
+ - **Area Chair, Conference on Neural Information Processing Systems (NeurIPS).**
+
+ - **Area Chair, International Conference on Learning Representations (ICLR).**
  
  </span>

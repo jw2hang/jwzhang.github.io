@@ -22,12 +22,14 @@ content:
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
   # Filter on criteria
-  # filters:
+  filters:
   #   tag: ''
   #   category: ''
   #   publication_type: '1'
   #   author: ''
   #   exclude_featured: true
+    # Accepted papers only: hide preprints (type 3). Custom filter, see layouts/partials/widgets/pages.html.
+    exclude_publication_type: '3'
 design:
   # Choose a view for the listings:
   #   1 = List

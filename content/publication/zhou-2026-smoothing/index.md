@@ -1,0 +1,10 @@
+---
+title: "Smoothing the Score Function to Enhance Generalization in Diffusion Models"
+date: 2026-06-01
+publishDate: 2026-06-01
+authors: ["Xinyu Zhou", "Jiawei Zhang", "Stephen J. Wright"]
+publication_types: ["1"]
+abstract: "Diffusion models achieve remarkable generation quality, yet face a fundamental challenge known as memorization, where generated samples can replicate training samples exactly. We develop a theoretical framework to explain this phenomenon by showing that the empirical score function (the score function corresponding to the empirical distribution) is a weighted sum of the score functions of Gaussian distributions, in which the weights are sharp softmax functions. This structure causes individual training samples to dominate the score function, resulting in sampling collapse. In practice, approximating the empirical score function with a neural network can partially alleviate this issue and improve generalization. Our theoretical framework explains why: In training, the neural network learns a smoother approximation of the weighted sum, allowing the sampling process to be influenced by local manifolds rather than single points. Leveraging this insight, we propose two novel methods to further enhance generalization: (1) Noise Unconditioning enables each training sample to adaptively determine its score function weight to increase the effect of more training samples, thereby preventing single-point dominance and mitigating collapse. (2) Temperature Smoothing introduces an explicit parameter to control the smoothness. By increasing the temperature in the softmax weights, we naturally reduce the dominance of any single training sample and mitigate memorization. Experiments across multiple datasets validate our theoretical analysis and demonstrate the effectiveness of the proposed methods in improving generalization while maintaining high generation quality."
+featured: false
+publication: "*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)*"
+---
